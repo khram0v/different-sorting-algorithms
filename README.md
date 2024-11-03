@@ -1,5 +1,7 @@
 # List Sorting Application
-This is a simple project implementing sorting algorithms and array manipulation functionalities. It allows users to perform basic actions with array and sort the array in both ascending and descending order.
+This is a simple project implementing sorting algorithms and array manipulation functionalities. 
+It allows users to perform basic actions with array and sort the array in both ascending and descending order.
+The focus is on practical implementation and performance considerations.
 
 ## Installation
 1. Clone the repository to your local machine (for contributors recommended to fork first)
@@ -20,6 +22,7 @@ After running java Main you should see this interface
 - Sorting algorithms: bubble sort, selection sort, insertion sort, merge sort, quick sort.
 - Shuffle array to try another algorithm.
 - Allows user selection of sorting order (ascending/descending).
+- Shows differences between various sorting algorithms. Presents the Big O Notation for each.
 
 ## Contributing
 ### Working on Issues
